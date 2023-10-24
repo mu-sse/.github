@@ -7,3 +7,4 @@ Hau Mondragon Unibertsitateako [*Software eta Sistemen Ingeniaritza* ikerketa ta
 Ordezko biltegiak:
 
 - [GitHub](https://github.com/mu-sse)
+- [GitLab](https://gitlab.com/mu-sse)

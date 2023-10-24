@@ -7,3 +7,4 @@ Este es el repositorio git del [grupo de investigación de *Ingeniería del Soft
 Repositorios alternativos:
 
 - [GitHub](https://github.com/mu-sse)
+- [GitLab](https://gitlab.com/mu-sse)
