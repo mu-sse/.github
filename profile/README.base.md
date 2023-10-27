@@ -13,7 +13,7 @@
 <!-- [en] -->
 # Mondragon University - Software & System Engineering
 
-<!-- [eu] -->
+<!-- [common] -->
 [eu](./README.md) | [es](./README.es.md) | [en](./README.en.md)
 
 <!-- [eu] -->
